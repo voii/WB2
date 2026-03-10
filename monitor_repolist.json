@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Extra module 33",
+        "current_version": "2.0.0",
+        "last_change": "1764770534",
+        "dl_id": "00CB2195",
+        "modified_when": "1772703275",
+        "visible": "1",
+        "install_title": "Extra module 33 - title",
+        "install_directory": "extra_module33"
+    },
+    {
+        "title": "Some new Module",
+        "current_version": "2.1.0",
+        "last_change": "1527356233",
+        "dl_id": "067D44C4",
+        "modified_when": "1527005079",
+        "visible": "1",
+        "install_title": "Some new Module",
+        "install_directory": "some_new_module"
+    }
+]
