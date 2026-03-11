@@ -21,9 +21,9 @@
     },
     {
         "title": "Module 123",
-        "current_version": "2.8.0",
+        "current_version": "3.0.0",
         "last_change": "1764770534",
-        "dl_url": "https://voii.github.io/WB2/module1234.zip",
+        "dl_url": "https://voii.github.io/WB2/module123.zip",
         "dl_detail": "https://github.com/voii/WebsiteBaker/blob/main/module123/CHANGELOG",
         "modified_when": "1772703275",
         "visible": "1",
